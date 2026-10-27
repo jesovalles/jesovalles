@@ -11,13 +11,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Profesional de datos con **más de 7 años de experiencia** diseñando pipelines, automatizando procesos y entregando soluciones analíticas en **Azure** y **AWS**.
+Profesional de datos con **más de 7 años de experiencia** diseñando pipelines, automatizando procesos y entregando soluciones analíticas.
 
-Trabajo de punta a punta: ingesta (web scraping, ETL/ELT), orquestación, despliegue en contenedores y modelado de datos para Power BI, con foco en reducir tareas manuales y tiempos operativos.
-
-- ⚙️ Hoy: orquesto pipelines con **Apache Airflow** y despliego aplicaciones en **AWS (ECR, ECS, Fargate)**.
-- ⏱️ Automatizaciones que pasaron de **días a horas** de procesamiento.
-- 📊 Creación de consultas y modelos de datos en Power BI para áreas claves de negocio.
+Procesos end-to-end: ingesta (web scraping, ETL/ELT), orquestación, despliegue en contenedores y modelado de datos para Power BI, con foco en reducir tareas manuales y tiempos operativos.
 
 ---
 
@@ -51,12 +47,3 @@ Trabajo de punta a punta: ingesta (web scraping, ETL/ELT), orquestación, despli
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
-
-
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesovalles&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesovalles&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
-</p>
